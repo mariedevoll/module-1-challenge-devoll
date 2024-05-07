@@ -1,8 +1,20 @@
 # module-1-challenge-devoll
-this is my mockup of making a web application more accessible and pleasing to the eye
 
-Link to the deployed application: https://mariedevoll.github.io/module-1-challenge-devoll/
+## HTML CSS Git Challange: Code Refactor
+From the started code given to me, I refactored both the HTML and CSS to ensure that this live application will be more accessible for clients to use. This includes the site being better at positioning images and being viewed on different size screens.
 
-In this application, you will find that the links within the webpage function so when clicked, the page will scroll down to the appropriate section, which enhances the user's experience on the application.
+## Mock Up
+![alt text](horiseon-img.png)
 
-You will also find that the application is accessible on multiple screen sizes and no images or text are skewed or distorted when the page is made larger or smaller.
+## How to Use
+Open this application at the following link:
+https://mariedevoll.github.io/module-1-challenge-devoll/
+
+Users will be able to scroll and see this full image on their screen.
+
+## License
+MIT
+
+## Credits
+Marie DeVoll
+github: https://github.com/mariedevoll
